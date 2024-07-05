@@ -1,0 +1,83 @@
+acc_arc
+gyr_arc
+mag_arc
+acc_x_aad
+acc_x_mean
+acc_x_std
+acc_x_kurt
+acc_x_skew
+acc_y_aad
+acc_y_mean
+acc_y_std
+acc_y_kurt
+acc_y_skew
+acc_z_aad
+acc_z_mean
+acc_z_std
+acc_z_kurt
+acc_z_skew
+gyr_x_aad
+gyr_x_mean
+gyr_x_std
+gyr_x_kurt
+gyr_x_skew
+gyr_y_aad
+gyr_y_mean
+gyr_y_std
+gyr_y_kurt
+gyr_y_skew
+gyr_z_aad
+gyr_z_mean
+gyr_z_std
+gyr_z_kurt
+gyr_z_skew
+mag_x_aad
+mag_x_mean
+mag_x_std
+mag_x_kurt
+mag_x_skew
+mag_y_aad
+mag_y_mean
+mag_y_std
+mag_y_kurt
+mag_y_skew
+mag_z_aad
+mag_z_mean
+mag_z_std
+mag_z_kurt
+mag_z_skew
+baro_aad
+baro_mean
+baro_std
+baro_kurt
+baro_skew
+nb_step
+aad_acc_norm
+mean_acc_norm
+std_acc_norm
+kurt_acc_norm
+skew_acc_norm
+aad_gyro_norm
+mean_gyro_norm
+std_gyro_norm
+kurtosis_gyro_norm
+skewness_gyro_norm
+aad_mag_norm
+mean_mag_norm
+std_mag_norm
+kurt_mag_norm
+skew_mag_norm
+time_diff
+mode
+mode_numero
+
+seuil_time 3
+
+seuil_step 2
+
+el none
+13091 21920 90 754 200
+352 108276 180 927 126
+0 17 58163 21 5586
+2417 4849 1161 99030 1610
+5 65 14314 0 98904
